@@ -5,7 +5,7 @@
 
 This repository contains a real time planning poker web application based on [ASP.NET Core Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor).
 
-You can check out a live demo [over here](https://www.planningpoker.party/demo).
+You can check out a live demo [over here](https://planningpoker.party/demo).
 
 ## Prerequisites
 
